@@ -1,0 +1,7 @@
+# Only what the Dockerfile copies is sent to the builder.
+*
+!stock_alert.py
+!stores_uk.json
+!models_uk.json
+!config.example.json
+!LICENSE

@@ -1,0 +1,27 @@
+name: test
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  unittest:
+    runs-on: ubuntu-24.04   # pinned: 3.9 builds exist for 24.04
+    strategy:
+      fail-fast: false
+      matrix:
+        # The minimum supported version is MIN_PYTHON in stock_alert.py.
+        # Only versions the suite has actually been run under are listed.
+        python-version: ["3.9", "3.12", "3.13", "3.14"]
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Syntax-check the installer
+        run: bash -n install.sh
+      - name: Run the tests
+        run: python -B -m unittest -v

@@ -1,0 +1,239 @@
+{
+  "_about": "UK Apple Stores. number = Apple's store number, postcode = the store's own postcode (used as the search centre). live_checked = number seen in a live response from Apple's pickup lookup; every number is also on Apple's UK store list. Run `python3 stock_alert.py --verify-stores` to re-check all.",
+  "stores": {
+    "R363": {
+      "name": "Apple Union Square",
+      "city": "Aberdeen",
+      "postcode": "AB11 5PN",
+      "live_checked": true
+    },
+    "R482": {
+      "name": "Apple Festival Place",
+      "city": "Basingstoke",
+      "postcode": "RG21 7BE",
+      "live_checked": false
+    },
+    "R335": {
+      "name": "Apple SouthGate",
+      "city": "Bath",
+      "postcode": "BA1 1AP",
+      "live_checked": false
+    },
+    "R313": {
+      "name": "Apple Belfast",
+      "city": "Belfast",
+      "postcode": "BT1 4DA",
+      "live_checked": false
+    },
+    "R118": {
+      "name": "Apple Birmingham",
+      "city": "Birmingham",
+      "postcode": "B2 4JH",
+      "live_checked": false
+    },
+    "R244": {
+      "name": "Apple Churchill Square",
+      "city": "Brighton",
+      "postcode": "BN1 2TE",
+      "live_checked": false
+    },
+    "R393": {
+      "name": "Apple Cribbs Causeway",
+      "city": "Bristol",
+      "postcode": "BS34 5DG",
+      "live_checked": false
+    },
+    "R496": {
+      "name": "Apple Bromley",
+      "city": "Bromley",
+      "postcode": "BR1 1DN",
+      "live_checked": false
+    },
+    "R270": {
+      "name": "Apple Grand Arcade",
+      "city": "Cambridge",
+      "postcode": "CB2 3AX",
+      "live_checked": false
+    },
+    "R334": {
+      "name": "Apple Cardiff",
+      "city": "Cardiff",
+      "postcode": "CF10 2EL",
+      "live_checked": false
+    },
+    "R328": {
+      "name": "Apple Edinburgh",
+      "city": "Edinburgh",
+      "postcode": "EH2 2AN",
+      "live_checked": true
+    },
+    "R279": {
+      "name": "Apple Princesshay",
+      "city": "Exeter",
+      "postcode": "EX1 1GE",
+      "live_checked": false
+    },
+    "R423": {
+      "name": "Apple Metrocentre",
+      "city": "Gateshead",
+      "postcode": "NE11 9YG",
+      "live_checked": true
+    },
+    "R340": {
+      "name": "Apple Braehead",
+      "city": "Glasgow",
+      "postcode": "G51 4BP",
+      "live_checked": true
+    },
+    "R135": {
+      "name": "Apple Glasgow",
+      "city": "Glasgow",
+      "postcode": "G1 2JX",
+      "live_checked": true
+    },
+    "R242": {
+      "name": "Apple Lakeside",
+      "city": "Grays",
+      "postcode": "RM20 2ZP",
+      "live_checked": false
+    },
+    "R113": {
+      "name": "Apple Bluewater",
+      "city": "Greenhithe",
+      "postcode": "DA9 9ST",
+      "live_checked": false
+    },
+    "R227": {
+      "name": "Apple Bentall Centre",
+      "city": "Kingston upon Thames",
+      "postcode": "KT1 1TP",
+      "live_checked": false
+    },
+    "R372": {
+      "name": "Apple Trinity Leeds",
+      "city": "Leeds",
+      "postcode": "LS1 5AR",
+      "live_checked": true
+    },
+    "R308": {
+      "name": "Apple Highcross",
+      "city": "Leicester",
+      "postcode": "LE1 4FT",
+      "live_checked": true
+    },
+    "R239": {
+      "name": "Apple Liverpool",
+      "city": "Liverpool",
+      "postcode": "L1 8BU",
+      "live_checked": true
+    },
+    "R163": {
+      "name": "Apple Brent Cross",
+      "city": "London",
+      "postcode": "NW4 3FP",
+      "live_checked": false
+    },
+    "R245": {
+      "name": "Apple Covent Garden",
+      "city": "London",
+      "postcode": "WC2E 8HB",
+      "live_checked": false
+    },
+    "R092": {
+      "name": "Apple Regent Street",
+      "city": "London",
+      "postcode": "W1B 2EL",
+      "live_checked": false
+    },
+    "R410": {
+      "name": "Apple Stratford City",
+      "city": "London",
+      "postcode": "E20 1EQ",
+      "live_checked": false
+    },
+    "R226": {
+      "name": "Apple White City",
+      "city": "London",
+      "postcode": "W12 7GF",
+      "live_checked": false
+    },
+    "R762": {
+      "name": "Apple Battersea",
+      "city": "London",
+      "postcode": "SW11 8AL",
+      "live_checked": false
+    },
+    "R329": {
+      "name": "Apple Brompton Road",
+      "city": "London",
+      "postcode": "SW1X 9LF",
+      "live_checked": false
+    },
+    "R215": {
+      "name": "Apple Manchester Arndale",
+      "city": "Manchester",
+      "postcode": "M4 3AJ",
+      "live_checked": true
+    },
+    "R136": {
+      "name": "Apple Trafford Centre",
+      "city": "Manchester",
+      "postcode": "M17 8BL",
+      "live_checked": true
+    },
+    "R269": {
+      "name": "Apple Milton Keynes",
+      "city": "Milton Keynes",
+      "postcode": "MK9 3GA",
+      "live_checked": false
+    },
+    "R341": {
+      "name": "Apple Eldon Square",
+      "city": "Newcastle upon Tyne",
+      "postcode": "NE1 7XD",
+      "live_checked": true
+    },
+    "R391": {
+      "name": "Apple Norwich",
+      "city": "Norwich",
+      "postcode": "NR2 1SU",
+      "live_checked": false
+    },
+    "R545": {
+      "name": "Apple Plymouth",
+      "city": "Plymouth",
+      "postcode": "PL1 1EA",
+      "live_checked": false
+    },
+    "R176": {
+      "name": "Apple The Oracle",
+      "city": "Reading",
+      "postcode": "RG1 2AG",
+      "live_checked": false
+    },
+    "R153": {
+      "name": "Apple Meadowhall",
+      "city": "Sheffield",
+      "postcode": "S9 1EN",
+      "live_checked": true
+    },
+    "R255": {
+      "name": "Apple Touchwood Centre",
+      "city": "Solihull",
+      "postcode": "B91 3GJ",
+      "live_checked": false
+    },
+    "R174": {
+      "name": "Apple Southampton",
+      "city": "Southampton",
+      "postcode": "SO15 1QE",
+      "live_checked": false
+    },
+    "R527": {
+      "name": "Apple Watford",
+      "city": "Watford",
+      "postcode": "WD17 2TN",
+      "live_checked": false
+    }
+  }
+}

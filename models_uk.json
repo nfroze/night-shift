@@ -1,0 +1,59 @@
+{
+  "_about": "UK part numbers. A model's 'twin' is the same product and capacity in another colour; the watcher asks Apple about the twin. source_checked = part number seen on Apple's UK store page, a UK retailer listing or in Apple's live lookup.",
+  "products": {
+    "iphone-duo": {
+      "name": "iPhone Duo",
+      "buy_url": "https://www.apple.com/uk/shop/buy-iphone/iphone-duo/7.6-inch-display-{capacity}-{colour}",
+      "variants": [
+        {
+          "part": "MK2D4QN/A",
+          "capacity": "256GB",
+          "colour": "Star White",
+          "source_checked": true
+        },
+        {
+          "part": "MK2E4QN/A",
+          "capacity": "256GB",
+          "colour": "Night Sky",
+          "source_checked": true
+        },
+        {
+          "part": "MK2F4QN/A",
+          "capacity": "512GB",
+          "colour": "Star White",
+          "source_checked": true
+        },
+        {
+          "part": "MK2G4QN/A",
+          "capacity": "512GB",
+          "colour": "Night Sky",
+          "source_checked": true
+        },
+        {
+          "part": "MK2H4QN/A",
+          "capacity": "1TB",
+          "colour": "Star White",
+          "source_checked": true
+        },
+        {
+          "part": "MK2J4QN/A",
+          "capacity": "1TB",
+          "colour": "Night Sky",
+          "source_checked": true
+        },
+        {
+          "part": "MK2K4QN/A",
+          "capacity": "2TB",
+          "colour": "Star White",
+          "source_checked": true
+        },
+        {
+          "part": "MK2L4QN/A",
+          "capacity": "2TB",
+          "colour": "Night Sky",
+          "source_checked": true
+        }
+      ]
+    }
+  }
+}

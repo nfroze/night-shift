@@ -1,0 +1,11 @@
+{
+  "poll_seconds": 30,
+  "stores": [
+    "R341",
+    "R423"
+  ],
+  "models": [
+    "MK2E4QN/A",
+    "MK2G4QN/A"
+  ]
+}
